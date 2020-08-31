@@ -105,8 +105,9 @@ img::-moz-selection {
 }
 #mainNav .navbar-brand {
     background-image: url(../img/logo-dark.png);
-    max-width: 100%;
-    padding: 75px;
+    max-width: 75%;
+    padding: 15px;
+    padding-right: 300px;
     border: 0;
     color: #d41c25;
 }
